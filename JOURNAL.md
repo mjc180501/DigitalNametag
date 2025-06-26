@@ -5,14 +5,14 @@ description: "A wearable badge with a QR Code on the case and a digital display 
 created_at: "2024-06-05"
 ---
 
-June 5: (2 hours)
+June 5: (1 hours)
 I came up with the project idea and started working on the schematic. I wanted to include OLED and ESP32 as well as a battery pack. 
 
 
-June 6: (1 hour)
+June 6: (30 min)
 I looked at different ways to hook up the OLED. I have never done this before, so I had to switch out which OLED I was using due to an incompatability issue. 
 
-June 10: (1 hour) 
+June 10: (45 min) 
 I finished the schematic and tried to make the PCB. I had a really hard time with the routing. I don't know why I can't route on both sides. If I don't, I am having a lot of errors with overlap of tracks. I watched a lot of YouTube videos but I couldn't figure it out. 
 [UntitledSchematic.pdf](https://github.com/user-attachments/files/20933656/UntitledSchematic.pdf)
 
@@ -26,7 +26,7 @@ I figured out that I can't route components that are on one side on the back of 
 <img width="675" alt="Screenshot 2025-06-26 at 10 56 20 PM" src="https://github.com/user-attachments/assets/dc8941f3-0fc1-421f-922a-0759b16f72ff" />
 
 
-June 19: (1 hours) 
+June 19: (20 min) 
 I started putting my files together and I made the CAD for the case. I also found a website that converts links to STL files of QR codes which is pretty cool. I used a link to my LinkedIn.
 <img width="536" alt="Screenshot 2025-06-26 at 10 58 55 PM" src="https://github.com/user-attachments/assets/aa573855-3179-4df6-841e-e395362266ae" />
 
@@ -39,7 +39,7 @@ I locked in, finished the CAD, schematic, and PCB. I put everything in the GitHu
 
 I also wrote the code in the Arduino IDE and saved it in my GitHub as txt just for my name to scroll across the screen. 
 
-Total Time: 10 hours approx (9 hours and 43 minutes) 
+Total Time: 6 hours and 35 minutes
 
 [Badge Schematic.pdf](https://github.com/user-attachments/files/20933722/Badge.Schematic.pdf)
 
