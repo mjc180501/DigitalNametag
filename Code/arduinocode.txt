@@ -1,0 +1,30 @@
+#include <MD_Parola.h>
+#include <MD_MAX72XX.h>
+#include <SPI.h>
+
+// Hardware
+#define screen MD_MAX72XX::FC16_HW
+#define mdev 4
+
+// Data Pins
+#define din 2
+#define clk 3
+#define load 4
+
+// Create Display Obkect Using PAROLA Library
+MD_Parola display = MD_Parola(screen, din, clk, load, mdev);
+
+// SetUp (display brightness can be anything since I have 3 AAA battery source)
+void setup() {
+  display.begin();
+  display.setIntensity(5);
+  display.displayClear();
+  display.displayScroll(" Megan Campbell ", PA_CENTER, PA_SCROLL_LEFT, 100);
+}
+
+// Loop
+void loop() {
+  if (display.displayAnimate()) {
+    display.displayReset();
+  }
+}
