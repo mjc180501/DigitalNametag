@@ -37,6 +37,10 @@ I lowkey didn't know what I was doing and the CAD looked really stupid, so I dec
 June 24: (1 hour) 
 I locked in, finished the CAD, schematic, and PCB. I put everything in the GitHub and finally submitted the custon project :D
 
+I also wrote the code in the Arduino IDE and saved it in my GitHub as txt just for my name to scroll across the screen. 
+
+Total Time: 10 hours approx (9 hours and 43 minutes) 
+
 [Badge Schematic.pdf](https://github.com/user-attachments/files/20933722/Badge.Schematic.pdf)
 
 <img width="500" alt="Screenshot 2025-06-26 at 11 01 30 PM" src="https://github.com/user-attachments/assets/2c6571bb-c687-4dcf-a4dc-d878b2d02621" />
