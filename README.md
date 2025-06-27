@@ -1,5 +1,5 @@
 # DigitalNametag
-Digital nametag with battery power, esp32 and OLED screen that will include a qr code to my LinkedIn and a screen where I can display my name. I made the project because I think it will help me stand out in conferences and job interviews. 
+Digital nametag with battery power, arduino and MAX7219 screen that will include a qr code to my LinkedIn and a screen where I can display my name. I made the project because I think it will help me stand out in conferences and job interviews. 
 
 
 3D Model:
