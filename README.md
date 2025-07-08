@@ -3,8 +3,7 @@ Digital nametag with battery power, arduino and MAX7219 screen that will include
 
 
 3D Model:
-
-<img width="400" alt="Screenshot 2025-06-26 at 11 05 04 PM" src="https://github.com/user-attachments/assets/d867a7f5-edaf-477b-82a5-67e95a98057a" />
+<img width="432" alt="Screenshot 2025-07-08 at 2 56 41 PM" src="https://github.com/user-attachments/assets/9c0de57f-cd84-42bb-9496-d634fc92edc9" />
 <img width="528" alt="Screenshot 2025-06-26 at 11 04 40 PM" src="https://github.com/user-attachments/assets/4953f7a0-eed6-4406-aeef-a10927daa06b" />
 <img width="500" alt="Screenshot 2025-06-26 at 11 01 30 PM" src="https://github.com/user-attachments/assets/46b5e188-b0d6-46b6-ac65-5fa42048e398" />
 
@@ -14,9 +13,9 @@ Schematic:
 
 
 BOM:
-| Component          | Description                                                                |
-|-------------------|-----------------------------------------------------------------------------|
-| Arduino Nano      | Microcontroller board used to control the display and logic of the device. |
+| Component          | Description                                                                | Link      | Cost |
+|-------------------|----------------------------------------------------------------------------------------------------------------|
+| Arduino Nano      | Microcontroller board used to control the display and logic of the device. | https://www.alibaba.com/pla/good-quality-Arduino-Nano-V30-CH340G_1600942840347.html?mark=google_shopping&biz=pla&searchText=electronic+components&product_id=1600942840347&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22635874527&adgrp=177485315221&fditm=&tgt=pla-2412849993011&locintrst=&locphyscl=9022877&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=756472634791&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22635874527&gbraid=0AAAAAD8m77oljVL76CyGVoPooSpgRsm1P&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu97MjyqBb6HE0nvyRPYPi9J34yeiJg8OJI0GB2-mWm_Ih2aUoN0EQRoCPv0QAvD_BwE | $2.20 |
 | MAX7219           | LED driver IC used to control an 8-digit 7-segment display.                 |
 | 9V Battery        | Powers the Arduino Nano.                         |
 | Exterior Hinge    | Allows the botton of the case to open and close smoothly.                   |
@@ -24,5 +23,5 @@ BOM:
 | 3 AAA Batteries   | Used with the battery case to supply power the MAX7219.                     |
 | Case Top          | Main part of the custom case enclosure; houses the electronics.              |
 | Case Bottom       | Bottom part of the case; opens and closes for quick access to the batteries|
-| QR Code           | Links to my LinkedIN.                                                        |
+| QR Code           | Links to my LinkedIN.                                                      |
 
