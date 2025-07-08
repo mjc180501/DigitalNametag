@@ -3,6 +3,9 @@ Digital nametag with battery power, arduino and MAX7219 screen that will include
 
 
 3D Model:
+
+
+
 <img width="432" alt="Screenshot 2025-07-08 at 2 56 41 PM" src="https://github.com/user-attachments/assets/9c0de57f-cd84-42bb-9496-d634fc92edc9" />
 <img width="528" alt="Screenshot 2025-06-26 at 11 04 40 PM" src="https://github.com/user-attachments/assets/4953f7a0-eed6-4406-aeef-a10927daa06b" />
 <img width="500" alt="Screenshot 2025-06-26 at 11 01 30 PM" src="https://github.com/user-attachments/assets/46b5e188-b0d6-46b6-ac65-5fa42048e398" />
