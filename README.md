@@ -25,3 +25,19 @@ BOM:
 | Case Bottom       | Bottom part of the case; opens and closes for quick access to the batteries|
 | QR Code           | Links to my LinkedIN.                                                      |
 
+
+
+
+| Component              | Description                                                                  | Link                                                                                                 | Cost     |
+| ---------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------- |
+| **Arduino Nano**       | Microcontroller board used to control the display and logic of the device.   | [Alibaba](https://www.alibaba.com/pla/good-quality-Arduino-Nano-V30-CH340G_1600942840347.html)       | \$2.20   |
+| **MAX7219**            | LED driver IC used to control an 8-digit 7-segment display.                  | [AliExpress](https://www.aliexpress.us/item/3256805668841965.html)                                   | \$0.99   |
+| **9V Battery**         | Powers the Arduino Nano.                                                     | [DigiKey](https://www.digikey.com/en/products/detail/duracell-industrial-operations-inc/9V/21259959) | \$4.46   |
+| **4× M5x0.8×20 mm**    | Screws to allow the bottom of the case to open.                              | [HomeDepot](https://www.homedepot.com/pep/Everbilt-M5-0-8-x-20mm-Zinc-Pan-Head-Phillips-Drive-Machine-Screw-4-Pieces)                                                                                                                                 | \$7.00 |
+| **3×AAA Battery Case** | Holds 3 AAA batteries to power the MAX7219.                                  | [DigiKey](https://www.digikey.com/en/products/detail/keystone-electronics/2484CN/7385289)            | \$2.45   |
+| **3× AAA Batteries**   | Used with the battery case to supply power to the MAX7219.                   | Already have                                                                                         | N/A      |
+| **Case Top**           | Main part of the custom case enclosure; houses the electronics.              | Ship through Hack Club                                                                               | N/A      |
+| **Case Bottom**        | Bottom part of the case; opens and closes for quick access to the batteries. | Ship through Hack Club                                                                               | N/A      |
+| **QR Code**            | Links to my LinkedIn.                                                        | Ship through Hack Club                                                                               | N/A      |
+
+
