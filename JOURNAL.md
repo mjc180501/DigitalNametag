@@ -5,6 +5,8 @@ description: "A wearable badge with a QR Code on the case and a digital display 
 created_at: "2024-06-05"
 ---
 
+Total Time: 7 hours and 15 minutes
+
 June 5: (1 hours)
 I came up with the project idea and started working on the schematic. I wanted to include OLED and ESP32 as well as a battery pack. 
 
@@ -39,8 +41,14 @@ I locked in, finished the CAD, schematic, and PCB. I put everything in the GitHu
 
 I also wrote the code in the Arduino IDE and saved it in my GitHub as txt just for my name to scroll across the screen. 
 
-Total Time: 6 hours and 35 minutes
 
 [Badge Schematic.pdf](https://github.com/user-attachments/files/20933722/Badge.Schematic.pdf)
 
 <img width="500" alt="Screenshot 2025-06-26 at 11 01 30 PM" src="https://github.com/user-attachments/assets/2c6571bb-c687-4dcf-a4dc-d878b2d02621" />
+
+July 8: (40 minutes)
+
+For rereview: I added threaded holes to the CAD for the hinge, then I removed the hinge entirely and made screw holes in the bottom of the case.
+I added 4x M5x0.8 20mm nails to the BOM
+I also updated the BOM and submitted. 
+
