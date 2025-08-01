@@ -1,10 +1,10 @@
 Component,Description,Link,Cost
-Arduino Nano,Microcontroller board used to control the display and logic of the device.,"https://www.aliexpress.com/item/1005004937193150.html",~$2.60
-MAX7219,LED driver IC + module to control an 8-digit/LED matrix display.,"https://www.aliexpress.com/item/32978151558.html",~$2.50–$4.70
-9V Battery,Powers the Arduino Nano.,DigiKey,$4.46
-4× M5x0.8×20 mm,Screws to allow the bottom of the case to open.,HomeDepot,$7.00
-3×AAA Battery Case,Holds 3 AAA batteries to power the MAX7219.,DigiKey,$2.45
+Arduino Nano,Microcontroller board used to control the display and logic of the device.,"https://www.aliexpress.us/item/3256807870916104.html",3.87
+MAX7219,LED driver IC + 8×8 LED matrix display module.,"https://www.aliexpress.com/item/32978151558.html","~2.50–4.70"
+9V Battery,Powers the Arduino Nano.,"https://www.aliexpress.us/item/1005006049794370.html",~1.50
+4× M5x0.8×20 mm,Screws to allow the bottom of the case to open.,"https://www.homedepot.com",7.00
+3×AAA Battery Case,Holds 3 AAA batteries to power the MAX7219.,"https://www.aliexpress.us/item/3256805287502452.html",0.90
 3× AAA Batteries,Used with the battery case to supply power to the MAX7219.,Already have,N/A
 Case Top,Main part of the custom case enclosure; houses the electronics.,Ship through Hack Club,N/A
-Case Bottom,Bottom part of the case; opens and closes for quick access to the batteries.,Ship through Hack Club,N/A
+Case Bottom,Bottom part of the case; opens and closes for quick access.,Ship through Hack Club,N/A
 QR Code,Links to my LinkedIn.,Ship through Hack Club,N/A
